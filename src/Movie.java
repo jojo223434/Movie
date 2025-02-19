@@ -1,5 +1,5 @@
 public class Movie {
-    // Properties (fields)
+    // Egenskaber (felter)
     private int id;
     private String title;
     private String director;
